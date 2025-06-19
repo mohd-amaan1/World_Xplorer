@@ -1,0 +1,42 @@
+.form-control {
+  margin: 1.2rem 0;
+  font-family: 'Segoe UI', sans-serif;
+}
+
+.form-control label {
+  display: block;
+  font-weight: 600;
+  margin-bottom: 0.5rem;
+  color: #333;
+}
+
+.form-control input,
+.form-control textarea {
+  display: block;
+  width: 100%;
+  font: inherit;
+  font-size: 1rem;
+  padding: 0.5rem 0.75rem;
+  border: 1px solid #ccc;
+  border-radius: 6px;
+  background: #f9f9f9;
+  transition: border-color 0.2s ease, background-color 0.2s ease;
+}
+
+.form-control input:focus,
+.form-control textarea:focus {
+  background: #fff;
+  border-color: #6c63ff;
+  outline: none;
+}
+
+.form-control--invalid label,
+.form-control--invalid p {
+  color: #d8000c;
+}
+
+.form-control--invalid input,
+.form-control--invalid textarea {
+  border-color: #d8000c;
+  background: #ffe5e5;
+}
