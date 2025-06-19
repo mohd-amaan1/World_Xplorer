@@ -65,7 +65,7 @@
 ### 📦 Clone the Repo
 
 ```bash
-git clone https://github.com/mohdamaan069/World_Xplorer.git
+git clone https://github.com/mohd-amaan1/World_Xplorer.git
 cd World_Xplorer
 ```
 
