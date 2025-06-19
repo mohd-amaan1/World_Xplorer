@@ -123,7 +123,7 @@ npm start
 4. 🗺️ View places on an interactive map.
 5. ✏️ Update or delete your own places.
 
-🔗 **Live App:** [xplorer-kappa.vercel.app](https://xplorer-kappa.vercel.app/)
+🔗 **Live App:** [Click](https://world-xplorer1.vercel.app/)
 
 ---
 
